@@ -4,6 +4,14 @@
 #include "lwip/udp.h"
 #include "string.h"
 #include "golbal_main.h"
+/*
+	this is test how to use github
+*/
+void Test_Use_Github(void)
+{
+	printf("this is test how to use github\r\n");
+}
+
 struct netif dm9000_netif;
 unsigned int system_tick_num = 0;
 /*UDP实验相关变量*/
